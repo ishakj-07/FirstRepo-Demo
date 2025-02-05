@@ -1,2 +1,2 @@
-# FirstRepo-Demo
+# Javacodes
 This is my first git repository
